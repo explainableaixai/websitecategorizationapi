@@ -2,6 +2,14 @@
 
 # Website categorization api
 
-Website categorization API. 
+This library is the package used for using Website categorization API that can classify texts or URLs into 1000+ categories. 
+
+The package supports both Ecommerce taxonomy as well as IAB based taxonomy. 
+
+Website categorization API is used by wide variety of companies and use cases. 
+
+These include Ad Exchanges, Demand Side Platforms (DSPs), Supply Side Platforms (SSPs) and Ad Networks. SSP (Supply Side Platform) companies can e.g. use it to identify the advertiser’s category to check its eligibility for real-time bidding. 
+
+Other use cases include Web Content Filtering where a company can employ it to filter out non-work related websites, such as social media networks, shopping platforms and similar. 
 
 
