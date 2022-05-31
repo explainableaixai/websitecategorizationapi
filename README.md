@@ -2,7 +2,7 @@
 
 # Website Categorization Api
 
-This library is the package used for using Website categorization API that can classify texts or URLs into 1000+ categories. The package supports both Ecommerce taxonomy as well as IAB based taxonomy. 
+This library supports Website categorization API that can classify texts or URLs into 1000+ categories. The package supports both Ecommerce taxonomy as well as IAB based taxonomy. 
 
 # Use cases
 
