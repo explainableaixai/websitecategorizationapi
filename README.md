@@ -1,10 +1,10 @@
 <a href="https://github.com/explainableaixai/websitecategorizationapi/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/explainableaixai/websitecategorizationapi"></a>
 
-# Website categorization api
+# Website Categorization Api
 
-This library is the package used for using Website categorization API that can classify texts or URLs into 1000+ categories. 
+This library is the package used for using Website categorization API that can classify texts or URLs into 1000+ categories. The package supports both Ecommerce taxonomy as well as IAB based taxonomy. 
 
-The package supports both Ecommerce taxonomy as well as IAB based taxonomy. 
+# Use cases
 
 [Website categorization API](https://www.websitecategorizationapi.com) is used by a wide variety of companies and use cases. 
 
