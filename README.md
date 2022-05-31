@@ -25,7 +25,7 @@ API can also be used in form of dashboard UI, as seen here:
 # Form of json
 
 Added below is the output of json with results of classifier from IAB1 classifier on example domain: 
-
+```
 {
   "classification": [
     {
@@ -147,7 +147,7 @@ Added below is the output of json with results of classifier from IAB1 classifie
   ],
   "language": "en"
 }
-
+```
 
 
 
