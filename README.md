@@ -1,4 +1,4 @@
-.. image:: https://img.shields.io/github/issues/explainableaixai/websitecategorizationapi   :alt: GitHub issues   :target: https://github.com/explainableaixai/websitecategorizationapi/issues
+<a href="https://github.com/explainableaixai/websitecategorizationapi/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/explainableaixai/websitecategorizationapi"></a>
 
 # Website categorization api
 
