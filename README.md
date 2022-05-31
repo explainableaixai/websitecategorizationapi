@@ -16,5 +16,10 @@ Other use cases include Web Content Filtering where a company can employ it to f
 
 It is continuously developed and regularly updated (in terms of training data set) to reflect and include new verticals arising each year. 
 
+API can also be used in form of dashboard UI, as seen here: 
+
+![image](https://user-images.githubusercontent.com/58834207/171235279-f5c67b23-46be-4474-be5a-fd7d859ab16d.png)
+
+
 
 
