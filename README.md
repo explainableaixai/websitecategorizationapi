@@ -14,5 +14,7 @@ Other use cases include Web Content Filtering where a company can employ it to f
 
 [Website categorization API](https://www.websitecategorizationapi.com) is based on a machine learning model from text classification group of ML models. It has been extensively tested and used in large scale classification, including on a project with 30+ million texts. 
 
+It is continuously developed and regularly updated (in terms of training data set) to reflect and include new verticals arising each year. 
+
 
 
